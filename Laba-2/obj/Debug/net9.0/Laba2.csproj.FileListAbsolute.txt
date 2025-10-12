@@ -1,0 +1,14 @@
+C:\Users\glebd\Projects\C#\Laba2\bin\Debug\net9.0\Laba2.exe
+C:\Users\glebd\Projects\C#\Laba2\bin\Debug\net9.0\Laba2.deps.json
+C:\Users\glebd\Projects\C#\Laba2\bin\Debug\net9.0\Laba2.runtimeconfig.json
+C:\Users\glebd\Projects\C#\Laba2\bin\Debug\net9.0\Laba2.dll
+C:\Users\glebd\Projects\C#\Laba2\bin\Debug\net9.0\Laba2.pdb
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.AssemblyInfoInputs.cache
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.AssemblyInfo.cs
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.dll
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\refint\Laba2.dll
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.pdb
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\Laba2.genruntimeconfig.cache
+C:\Users\glebd\Projects\C#\Laba2\obj\Debug\net9.0\ref\Laba2.dll

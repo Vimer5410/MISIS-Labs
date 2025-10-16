@@ -1,0 +1,15 @@
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.AssemblyInfoInputs.cache
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.AssemblyInfo.cs
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.csproj.CoreCompileInputs.cache
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.sourcelink.json
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\bin\Debug\net9.0\Laba-3.exe
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\bin\Debug\net9.0\Laba-3.deps.json
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\bin\Debug\net9.0\Laba-3.runtimeconfig.json
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\bin\Debug\net9.0\Laba-3.dll
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\bin\Debug\net9.0\Laba-3.pdb
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.dll
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\refint\Laba-3.dll
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.pdb
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\Laba-3.genruntimeconfig.cache
+C:\Users\glebd\Projects\C#\MISIS-Labs\Laba-3\obj\Debug\net9.0\ref\Laba-3.dll

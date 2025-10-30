@@ -1,0 +1,15 @@
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.AssemblyInfoInputs.cache
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.AssemblyInfo.cs
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.sourcelink.json
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\bin\Debug\net9.0\Laba-4.exe
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\bin\Debug\net9.0\Laba-4.deps.json
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\bin\Debug\net9.0\Laba-4.runtimeconfig.json
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\bin\Debug\net9.0\Laba-4.dll
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\bin\Debug\net9.0\Laba-4.pdb
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.dll
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\refint\Laba-4.dll
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.pdb
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\Laba-4.genruntimeconfig.cache
+C:\Users\Asus\source\C#\MISIS-Labs\Laba-4\obj\Debug\net9.0\ref\Laba-4.dll

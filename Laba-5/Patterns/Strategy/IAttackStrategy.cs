@@ -1,6 +1,10 @@
-namespace DefaultNamespace;
+using Laba5.Patterns.Common;
 
-public class IAttackStrategy
+namespace Laba5.Patterns.Strategy
 {
-    
+    // 1. Интерфейс Стратегии
+    public interface IAttackStrategy
+    {
+        void Execute(Enemy enemy);
+    }
 }

@@ -1,6 +1,15 @@
-namespace DefaultNamespace;
+using System;
+using Laba5.Patterns.Common;
 
-public class RangedAttackStrategy
+namespace Laba5.Patterns.Strategy
 {
-    
+    // 2b. Конкретная Стратегия
+    public class RangedAttackStrategy : IAttackStrategy
+    {
+        public void Execute(Enemy enemy)
+        {
+            GameLogger.Instance.Log("Компаньон атакует издалека!");
+            enemy.TakeDamage(7);
+        }
+    }
 }

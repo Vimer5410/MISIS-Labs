@@ -2,7 +2,6 @@ using System;
 
 namespace Laba5.Patterns.Common
 {
-    // Ваш Синглтон
     public class GameLogger
     {
         private static GameLogger? _instance;

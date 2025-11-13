@@ -2,7 +2,7 @@ using System;
 
 namespace Laba5.Patterns.Common
 {
-    // Получатель (Receiver) для паттерна Команда
+    // получаетль для паттерна command
     public class PlayableCharacter
     {
         public string Name { get; set; } = "Player";
@@ -16,7 +16,7 @@ namespace Laba5.Patterns.Common
             _logger.Log($"[PLAYER] {Name} получил {damage} урона. HP: {Health}");
         }
 
-        // --- Методы для Паттерна Команда ---
+        //  методы для Command 
         public void Heal(int amount)
         {
             Health += amount;

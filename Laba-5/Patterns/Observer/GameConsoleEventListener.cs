@@ -3,9 +3,10 @@ using Laba5.Patterns.Common;
 
 namespace Laba5.Patterns.Observer
 {
-    // 3a. Конкретный Подписчик 1
+    
     public class GameConsoleEventListener : IGameEventListener
     {
+        // первый подписчик на событие
         public void Update(GameEvent eventType, PlayerProfile playerProfile)
         {
             GameLogger.Instance.Log(

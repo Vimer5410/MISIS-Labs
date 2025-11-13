@@ -2,10 +2,10 @@ using Laba5.Patterns.Common;
 
 namespace Laba5.Patterns.Command
 {
-    // 2a. Конкретная Команда
+    
     public class HealCommand : ICommand
     {
-        private readonly PlayableCharacter _receiver; // Получатель
+        private readonly PlayableCharacter _receiver; 
         private readonly int _healAmount;
 
         public HealCommand(PlayableCharacter receiver, int healAmount)

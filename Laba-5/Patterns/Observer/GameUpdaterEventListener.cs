@@ -3,7 +3,7 @@ using Laba5.Patterns.Common;
 
 namespace Laba5.Patterns.Observer
 {
-    // 3b. Конкретный Подписчик 2
+    // второй   подписчик
     public class GameUpdaterEventListener : IGameEventListener
     {
         private readonly IPlayerProfileRepository _repository;

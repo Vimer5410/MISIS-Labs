@@ -3,7 +3,7 @@ using Laba5.Patterns.Common;
 
 namespace Laba5.Patterns.Strategy
 {
-    // 2a. Конкретная Стратегия
+    
     public class MeleeAttackStrategy : IAttackStrategy
     {
         public void Execute(Enemy enemy)

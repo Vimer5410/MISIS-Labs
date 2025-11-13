@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea11f7e2-7176-4101-9524-16a1044b9fd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MISIS-Labs.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MISIS-Labs.dir/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ea11f7e2-7176-4101-9524-16a1044b9fd3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,13 +54,34 @@
     <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Common/Sword.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Common/WarriorEquipmentFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Decorator/BaseEnemyDecorator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Decorator/LegendaryEnemyDecorator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Decorator/WindfuryEnemyDecorator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Decorator/LegendaryEnemyDecorator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Decorator/WindfuryEnemyDecorator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Facade/EquipmentFacade.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Proxy/CachedPlayerProfileProxy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Proxy/IPlayerProfileRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Proxy/RealPlayerProfileRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Laba-4/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Proxy/IPlayerProfileRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-4/Patterns/Proxy/RealPlayerProfileRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-4/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Command/BuffCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Command/CommandProcessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Command/HealCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Command/ICommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Command/PlayableCharacter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/CharacterClass.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/GameLogger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/IPlayerProfileRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/PlayerProfile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Common/SimplePlayerProfileRepository.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Observer/GameConsoleEventListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Observer/GameEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Observer/GameEventPublisher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Observer/GameUpdaterEventListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Observer/IGameEventListener.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Strategy/Companion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Strategy/IAttackStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Strategy/MeleeAttackStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Patterns/Strategy/RangedAttackStrategy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Laba-5/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -166,6 +185,7 @@
       <workItem from="1761848437027" duration="5655000" />
       <workItem from="1762604693376" duration="2404000" />
       <workItem from="1762613667699" duration="668000" />
+      <workItem from="1762685117948" duration="1382000" />
     </task>
     <servers />
   </component>

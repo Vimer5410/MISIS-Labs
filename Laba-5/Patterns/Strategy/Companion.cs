@@ -3,7 +3,7 @@ using Laba5.Patterns.Common;
 
 namespace Laba5.Patterns.Strategy
 {
-    // 3. Контекст
+    
     public class Companion
     {
         private readonly IAttackStrategy _attackStrategy;

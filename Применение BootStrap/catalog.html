@@ -27,6 +27,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Деактиватор (Jammer)</h5>
                         <a href="item1.html" class="btn btn-primary">Подробнее</a>
+                        <button class="btn btn-success ms-2" onclick="addToCart('Деактиватор (Jammer)')">В корзину</button>
                     </div>
                 </div>
             </div>
@@ -34,28 +35,42 @@
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/Connector.jpg" class="card-img-top" alt="Коннектор">
-                    <div class="card-body">
+
+                   <div class="card-body">
                         <h5 class="card-title">Коннектор (Connector)</h5>
-                        <a href="item2.html" class="btn btn-primary">Подробнее</a>
+                        <a href="item1.html" class="btn btn-primary">Подробнее</a>
+                        <button class="btn btn-success ms-2" onclick="addToCart('Коннектор (Connector)')">В корзину</button>
                     </div>
+                    
                 </div>
             </div>
 
             <div class="col-md-4">
                 <div class="card">
                     <img src="img/cube.webp" class="card-img-top" alt="Гексаэдр">
+
                     <div class="card-body">
                         <h5 class="card-title">Гексаэдр (Hexahedron)</h5>
-                        <a href="item3.html" class="btn btn-primary">Подробнее</a>
+                        <a href="item1.html" class="btn btn-primary">Подробнее</a>
+                        <button class="btn btn-success ms-2" onclick="addToCart('Гексаэдр (Hexahedron)')">В корзину</button>
                     </div>
+                   
                 </div>
             </div>
         </div>
 
         <hr class="mt-5">
+
+        <div class="container mt-4 mb-5">
+            <h3>Сформированный запрос</h3>
+            <div id="cart-items"></div>
+            <button class="btn btn-warning mt-2" onclick="clearCart()">Очистить запрос</button>
+        </div>
+
         <footer>
             <p>&copy; 2026 Проект Талос. Все права защищены.</p>
         </footer>
     </div>
+    </div> <script src="script.js"></script>
 </body>
 </html>

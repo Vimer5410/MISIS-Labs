@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(238, 242, 245);
+  font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.main-menu{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    gap: 18px;
+}
+
+.main-menu a {
+  color: rgb(25, 65, 105);
+    font-size: 16px;
+    font-weight: bold;
+  text-decoration: none;
+}
+
+.main-menu a:hover {
+    color: red;
+}
+
+.product-title {
+    background-color: rgb(210, 220, 235);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    padding: 10px;
+    font-weight: 400;
+  border-radius: 4px;
+}
+
+.short-description {
+    font-style: italic;
+    color: rgb(75, 75, 75);
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.detailed-description {
+    color: rgb(28, 28, 28);
+    font-size: 16px;
+    text-align: left;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.features-list {
+    background-color: rgb(248, 248, 250);
+    border: 1px dashed rgb(160, 160, 160);
+    padding: 15px 15px 15px 35px;
+    list-style-image: url('img/marker.png');
+}

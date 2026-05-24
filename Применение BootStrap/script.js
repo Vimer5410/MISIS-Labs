@@ -1,9 +1,4 @@
-let cart = [];
-
-const savedCart = localStorage.getItem("cart");
-if (savedCart) {
-    cart = JSON.parse(savedCart);
-}
+let cart = []; //пустой массив корзины
 
 function renderCart() {
     const container = document.getElementById("cart-items");
@@ -11,6 +6,7 @@ function renderCart() {
 
     container.innerHTML = "";
 
+    //если корзина пустая
     if (cart.length === 0) {
         container.innerHTML = "<p>Запрос пуст</p>";
         return;
@@ -29,24 +25,30 @@ function renderCart() {
     container.appendChild(ul);
 }
 
+
 function addToCart(item) {
     cart.push(item);
-    localStorage.setItem("cart", JSON.stringify(cart));
+    localStorage.setItem("cart", JSON.stringify(cart)); //сохраняем в лс
     renderCart();
 }
 
 function removeFromCart(index) {
-    cart.splice(index, 1);
+    cart.splice(index, 1); //удалаем по индексу
     localStorage.setItem("cart", JSON.stringify(cart));
     renderCart();
 }
 
 function clearCart() {
     cart = [];
-    localStorage.setItem("cart", JSON.stringify(cart));
+    localStorage.setItem("cart", JSON.stringify(cart)); //обнуляем сторадж
     renderCart();
 }
 
+//подгружаем данные при перезагрузке стр
 document.addEventListener("DOMContentLoaded", () => {
+    const savedCart = localStorage.getItem("cart");
+    if (savedCart) {
+        cart = JSON.parse(savedCart); //парсим обратно в масив
+    }
     renderCart();
 });
